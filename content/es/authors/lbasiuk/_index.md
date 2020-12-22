@@ -6,7 +6,7 @@ title: Lucas Basiuk
 superuser: false
 
 # Role/position
-role: Estudiante de Doctorado
+role: Becario Doctoral
 
 # Organizations/Affiliations
 organizations:
