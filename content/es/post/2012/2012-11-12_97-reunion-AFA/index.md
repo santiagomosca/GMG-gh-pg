@@ -6,7 +6,7 @@ date: 2012-11-12
 authors:
 - msanchez
 tags:
-#- Etiqueta 1
+- "AFA"
 #- Etiqueta 2
 #- Etiqueta 3
 #- Etiqueta 4
@@ -18,6 +18,6 @@ image:
 featured: false
 ---
 
-Miembros del GMG participaron de la 97 Reunión Nacional de Física de la Asociación Física Argentina presentando tres trabajos murales.
+Miembros del GMG participaron de la 97° Reunión Nacional de Física de la Asociación Física Argentina presentando tres trabajos murales.
 
 <!--more-->
