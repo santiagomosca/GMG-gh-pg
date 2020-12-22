@@ -99,7 +99,7 @@ la Regional La Plata de la misma universidad.<br>
 
 Dentro del GMG participo en los siguientes proyectos:
 - {{< icon name="briefcase" pack="fas" >}} {{< staticref "en/project/pid-1/" "newtab" >}} Battersea {{< /staticref >}}
-- {{< staticref "en/project/pid-1/" "newtab" >}} Battersea {{< /staticref >}}
+- {{< icon name="briefcase" pack="fas" >}} [Battersea]({{< ref "/project/pid-1" >}} "Proyecto de Investigación y Desarrollo "Battersea"')
 
 [comentario]: <> (El link a proyectos u otras páginas dentro del sitio se debe escribir en
 minúsculas, sin utilizar guiones bajos)
