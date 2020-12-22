@@ -28,7 +28,7 @@ contó con 45 charlas (invitadas, cortas y largas) y posters a lo largo de todas
 En esta ocasión, dentro de la división "Industria y Tecnología", el día 28/09 el becario Lucas
 Basiuk realizó su debut en las RAFA con la presentación titulada "Transporte de agentes de sostén
 en fracturas planas: Efecto de condiciones de borde en el extremo de la fractura", charla elaborada
-en coautoría con Matías Fernández, Martín Sánchez, Luis Pugnaloni e Irou Roschzttardtz, que
+en coautoría con Matías Fernández, Martín Sánchez, Irou Roschzttardtz y Luis Pugnaloni, que
 sintetizó el trabajo realizado por los integrantes del Espacio de Innovación GMG - CONICET - Y-TEC.<br>
 
 [1]: http://afa.mvilamajo.opalstacked.com/
