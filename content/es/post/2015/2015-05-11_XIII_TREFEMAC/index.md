@@ -1,19 +1,15 @@
 ---
-title: Estuvimos en el XIII TREFEMAC
+title: "Estuvimos en el XIII TREFEMAC"
 date: 2015-05-11
-#publishDate: 2000-01-01
 
 authors:
 - mmadrid
 tags:
 #- Etiqueta 1
-#- Etiqueta 2
-#- Etiqueta 3
-#- Etiqueta 4
 
-image:
-  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
-  focal_point: Right # Left, Center
+#image:
+#  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
+#  focal_point: Right # Left, Center
 
 featured: false
 ---

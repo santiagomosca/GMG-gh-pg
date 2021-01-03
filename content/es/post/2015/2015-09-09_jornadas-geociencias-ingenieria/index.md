@@ -1,25 +1,22 @@
 ---
-title: Estuvimos en las Jornadas de Geociencia para la Ingeniería
+title: "Estuvimos en las Jornadas de Geociencia para la Ingeniería"
 date: 2015-09-09
-#publishDate: 2000-01-01
 
 authors:
 - mmadrid
 tags:
 #- Etiqueta 1
-#- Etiqueta 2
-#- Etiqueta 3
-#- Etiqueta 4
 
-image:
-  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
-  focal_point: Right # Left, Center
+#image:
+#  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
+#  focal_point: Right # Left, Center
 
 featured: false
 ---
 
-Matías Fernández expuso la charla titulada "Estudio experimental sobre el transporte y la
-disposición del agente de sostén en fracturas hidráulicas"
+{{< staticref "author/matias-fernandez" >}} Matías Fernández {{< /staticref >}} expuso
+la charla titulada "Estudio experimental sobre el transporte y la disposición del
+agente de sostén en fracturas hidráulicas"
 
 <!--more-->
 

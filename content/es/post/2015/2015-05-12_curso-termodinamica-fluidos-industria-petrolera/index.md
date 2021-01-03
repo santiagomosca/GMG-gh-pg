@@ -2,19 +2,15 @@
 title: "Participamos en el Curso de Especialización en Termodinámica de Fluidos para
 la Industria Petrolera"
 date: 2015-05-12
-#publishDate: 2000-01-01
 
 authors:
 - mmadrid
 tags:
 #- Etiqueta 1
-#- Etiqueta 2
-#- Etiqueta 3
-#- Etiqueta 4
 
-image:
-  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
-  focal_point: Right # Left, Center
+#image:
+#  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
+#  focal_point: Right # Left, Center
 
 featured: false
 ---

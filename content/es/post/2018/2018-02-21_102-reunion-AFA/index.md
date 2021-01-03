@@ -1,15 +1,11 @@
 ---
-title: Participamos de la 102° Reunión Nacional de la AFA
+title: "Participamos de la 102° Reunión Nacional de la AFA"
 date: 2018-02-21
-#publishDate: 2000-01-01
 
 authors:
 - mmadrid
 tags:
 - "AFA"
-#- Etiqueta 2
-#- Etiqueta 3
-#- Etiqueta 4
 
 image:
   caption: 'Crédito: [**Quien corresponda**](https://example.org)'
@@ -18,7 +14,10 @@ image:
 featured: false
 ---
 
-Estuvimos en la 102° Reunión Nacional de la Asociación de Física Argentina, llevada a cabo en la ciudad de La Plata entre los días 26 y 29 de Septiembre del 2017.
+Estuvimos en la [102° Reunión Nacional][1] de la Asociación de Física Argentina, llevada
+a cabo en la ciudad de La Plata entre los días 26 y 29 de septiembre de 2017.
+
+[1]: https://www.fisica.org.ar/wp-content/blogs.dir/33/files/sites/33/2019/02/resumen_rafa_2012.pdf
 
 <!--more-->
 

@@ -1,7 +1,6 @@
 ---
-title: Estuvimos en Southern Workshop on Granular Materials 2012
+title: "Estuvimos en Southern Workshop on Granular Materials 2012"
 date: 2012-12-19
-#publishDate: 2000-01-01
 
 draft: true
 
@@ -9,13 +8,10 @@ authors:
 - msanchez
 tags:
 #- Etiqueta 1
-#- Etiqueta 2
-#- Etiqueta 3
-#- Etiqueta 4
 
-image:
-  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
-  focal_point: Right # Left, Center
+#image:
+#  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
+#  focal_point: Right # Left, Center
 
 featured: false
 ---

@@ -1,27 +1,24 @@
 ---
-title: Fuimos a la 100° Reunión Nacional de la AFA
+title: "Fuimos a la 100° Reunión Nacional de la AFA"
 date: 2015-09-29
-#publishDate: 2000-01-01
 
 authors:
 - mmadrid
 tags:
 - "AFA"
-#- Etiqueta 2
-#- Etiqueta 3
-#- Etiqueta 4
 
-image:
-  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
-  focal_point: Right # Left, Center
+#image:
+#  caption: 'Crédito: [**Quien corresponda**](https://example.org)'
+#  focal_point: Right # Left, Center
 
 featured: false
 ---
 
-Concurrimos a la 100° Reunión Nacional de la Asociación de Física Argentina que se llevó
-a cabo en la ciudad de Merlo, provincia de San Luis entre los días 22 y 25 de Septiembre
-del corriente año.
+Concurrimos a la [100° Reunión Nacional][1] de la Asociación de Física Argentina que se
+llevó a cabo en la ciudad de Merlo, provincia de San Luis entre los días 22 y 25 de
+septiembre del corriente año.
 
+[1]: http://rafa.fisica.org.ar/wp-content/uploads/2018/10/AFA_2015_Libro_resumenes_final3.pdf
 <!--more-->
 
 Allí expusimos algunos de los resultados del grupo con una presentación oral a cargo de
