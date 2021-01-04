@@ -31,9 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-Esta es una descripción de lo que hace el grupo, que necesita ser pulida. Y en inglés.
+This is thr website of the Granular Materials Group.
 
-Estaría bueno poner hacia el final de la página una foto con los miembros actuales. Como quizá
-la pandemia lo complique, se podría hacer un collage de las fotos de perfil de cada uno.
-
-O si no, usar una foto de la facultad bien piola y bonita.
+We are currently rebuilding it, and therefore apologize in advance for any
+inconsistency you may come across.

@@ -31,10 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-Esta es una descripción sucinta de la historia y activdad del grupo, que necesita ser pulida.
+Este es el sitio web del Grupo de Materiales Granulares.
 
-
-Estaría bueno poner hacia el final de la página una foto con los miembros actuales. Como quizá
-la pandemia lo complique, se podría hacer un collage de las fotos de perfil de cada uno.
-
-O si no, usar una foto de la facultad bien piola y bonita.
+Actualmente estamos reconstruyéndolo, por lo que pedimos disculpas anticipadas por
+cualquier inconsistencia que pueda encontrar.
