@@ -1,5 +1,6 @@
 ---
 title: "An example conference paper"
+draft: true
 authors:
 - smosca
 - mcarlevaro
