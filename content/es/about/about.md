@@ -42,6 +42,8 @@ así como de organizaciones gubernamentales y no gubernamentales.
 
 - Consolidar un grupo humano comprometido con objetivos comunes de mediano y largo plazo.
 
+---
+
 ## Nuestra visión
 
 - Convertirnos en un centro de generación de conocimiento y desarrollo tecnológico de
@@ -52,6 +54,8 @@ materiales granulares y materia activa.
 - Establecernos como un grupo de referencia en el área de los materiales granulares en el
 ámbito académico con extensiones a temáticas relacionadas en cuanto a lo fenomenológico y
 a lo instrumental.
+
+---
 
 ## Áreas de I+D
 
@@ -68,3 +72,21 @@ a lo instrumental.
 - Mezcla y segregación.
 
 - Fluencia lenta.
+
+---
+
+## Docencia
+
+Los integrates del GMG participan del dictado de los siguientes cursos en UTN FRLP:
+
+#### Cursos de grado
+
+- Cálculo avanzado
+- Estabilidad I
+- Introducción a los elementos finitos
+- Mecánica de los fluidos
+- Mecánica de materiales granulares
+
+#### Cursos de postgrado
+
+- Herramientas computacionales para científicos

@@ -31,7 +31,7 @@ advanced:
   css_class: fullscreen
 ---
 
-This is thr website of the Granular Materials Group.
+This is the website of the Granular Materials Group.
 
 We are currently rebuilding it, and therefore apologize in advance for any
 inconsistency you may come across.
