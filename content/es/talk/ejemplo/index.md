@@ -1,6 +1,8 @@
 ---
 title: Evento de ejemplo
 
+draft: true
+
 # This page represents an event/talk.
 type: talk
 
