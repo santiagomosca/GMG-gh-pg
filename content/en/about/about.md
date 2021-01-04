@@ -28,44 +28,24 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Intereses del GMG.
+## Our mission
 
-Intereses del GMG.
+- To improve knowledge about the behavior of granular materials and active substance
+through basic and applied research.
 
-Intereses del GMG.
+- Carry out technological developments aimed at improving processes involving granular
+materials and active matter.
 
-Intereses del GMG.
+- Train highly qualified human resources in research and development to contribute to
+the progress of scientific, educational, productive and administrative system as well as governmental and nongovernmental organizations.
 
-Intereses del GMG.
+- Consolidate a group of people committed to common goals of medium and long term.
 
-Intereses del GMG.
+## Our vision
 
-Intereses del GMG.
+- Become a center of knowledge generation and vanguard technological development in the
+field of granular materials providing to the industry fundamental tools to the design
+and optimization of processes involving granular materials and active material.
 
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
-
-Intereses del GMG.
+- Establish ourselves as a reference group in the field of granular matter in academia
+with extensions to related topics regarding phenomenological and the instrumental.
