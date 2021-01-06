@@ -21,7 +21,7 @@ las figuras mas destacadas del área granular en distintas partes del mundo.
 <!--more-->
 
 En esta oportunidad se realizó en Montpellier, Francia, entre los dias 3 y 7 de Julio, y
-{{< staticref "author/luis-pugnaloni" >}} Luis Pugnaloni {{< /staticref >}} fue invitado
+{{< staticref "author/luis-pugnaloni" >}}Luis Pugnaloni{{< /staticref >}} fue invitado
 para presentar un trabajo titulado **A diferential equation for the flow rate during
 silo discharge: beyond the Beverloo rule**.<br>
 

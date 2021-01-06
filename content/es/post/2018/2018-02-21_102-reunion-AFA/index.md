@@ -24,4 +24,5 @@ a cabo en la ciudad de La Plata entre los días 26 y 29 de septiembre de 2017.
 Allí expusimos algunos de los resultados del grupo con una charla invitada a cargo de Luis
 Pugnaloni titulada **Redes de fuerzas en empaquetamientos de discos y pentágonos sometidos a
 golpes: Agregados y correlaciones**, una presentación oral a cargo de Marcos Madrid titulada:
-**Descargas de Silos con Muestras Bidispersas** y un póster defendido por Emiliano Recalt.
+**Descargas de Silos con Muestras Bidispersas** y un póster defendido por
+{{< staticref "author/emiliano-recalt" >}}Emiliano Recalt{{< /staticref >}}.

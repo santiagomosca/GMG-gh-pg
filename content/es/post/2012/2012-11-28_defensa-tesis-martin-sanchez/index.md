@@ -16,8 +16,8 @@ featured: false
 ---
 
 El 22 de noviembre
-{{< staticref "author/martin-sanchez" >}} Martín Sánchez {{< /staticref >}} defendió su
-{{< staticref "files/tesis/tesis_msanchez.pdf" >}} Tesis Doctoral {{< /staticref >}}
+{{< staticref "author/martin-sanchez" >}}Martín Sánchez{{< /staticref >}} defendió su
+{{< staticref "files/tesis/tesis_msanchez.pdf" >}}Tesis Doctoral{{< /staticref >}}
 titulada "Estudio de mecanismos de amortiguación de vibraciones mecánicas mediante el
 uso de partículas disipativas" en la [Facultad Regional Delta][1] de la Universidad
 Tecnológica Nacional.

@@ -14,7 +14,7 @@ tags:
 featured: false
 ---
 
-{{< staticref "author/marcos-madrid" >}} Marcos Madrid {{< /staticref >}} comenzará a
+{{< staticref "author/marcos-madrid" >}}Marcos Madrid{{< /staticref >}} comenzará a
 trabajar en el Grupo de Materiales Granulares el próximo año.
 
 <!--more-->

@@ -20,9 +20,9 @@ Obtuvo el grado de Doctor en Ingeniería, mención Materiales.
 <!--more-->
 
 El flamante 
-{{< staticref "author/matias-fernandez" >}} Dr. Ing. Fernández {{< /staticref >}}
+{{< staticref "author/matias-fernandez" >}}Dr. Ing. Fernández{{< /staticref >}}
 defendió su
-{{< staticref "files/tesis/tesis_mfernandez.pdf" >}} Tesis {{< /staticref >}} titulada
+{{< staticref "files/tesis/tesis_mfernandez.pdf" >}}Tesis{{< /staticref >}} titulada
 *Transporte y estabilidad de agente de sostén en fractura hidráulica para la
 estimulación de yacimientos de hidrocarburos no convencionales*. La ceremonia se llevó
 a cabo en el anfiteatro del Departamento de Ing. Química de UTN FRLP.<br>

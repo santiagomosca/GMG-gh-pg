@@ -20,7 +20,7 @@ El trabajo recibió elogio unánime del jurado.
 <!--more-->
 
 En el día de hoy tenemos el agrado de felicitar al reciente
-{{< staticref "author/mauro-baldini" >}} Dr. Ing. Mauro Baldini {{< /staticref >}},
+{{< staticref "author/mauro-baldini" >}}Dr. Ing. Mauro Baldini{{< /staticref >}},
 quien ha realizado la defensa de su Tesis Doctoral titulada *Simulación del transporte
 de agente de sostén en estimulación hidráulica* obteniendo su título de Doctor en
 Ingeniería, mención Materiales. Hacemos extensiva las felicitaciones a su Director, Dr.

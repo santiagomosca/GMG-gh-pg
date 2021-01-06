@@ -27,16 +27,16 @@ Ingeniería Mecánica.
 [1]: https://portal.issn.org/resource/ISSN/2683-9148#
 
 Varios miembros del Grupo de Materiales Granulares participan de la iniciativa.
-{{< staticref "author/matias-fernandez" >}} Matías Fernández {{< /staticref >}} es
+{{< staticref "author/matias-fernandez" >}}Matías Fernández{{< /staticref >}} es
 Director de la revista, y participa de su Comité Evaluador junto con
-{{< staticref "author/ariel-meyra" >}} Ariel Meyra {{< /staticref >}}. Por su parte,
-{{< staticref "author/lucas-basiuk" >}} Lucas Basiuk {{< /staticref >}} se desempeña
+{{< staticref "author/ariel-meyra" >}}Ariel Meyra{{< /staticref >}}. Por su parte,
+{{< staticref "author/lucas-basiuk" >}}Lucas Basiuk{{< /staticref >}} se desempeña
 como Coordinador de la publicación.
 
 En este segundo volumen publicó su Informe de PPS
-{{< staticref "author/santiago-mosca" >}} Santiago Mosca {{< /staticref >}}, mientras que
+{{< staticref "author/santiago-mosca" >}}Santiago Mosca{{< /staticref >}}, mientras que
 en el primero lo habían hecho Lucas Basiuk y
-{{< staticref "author/maximiliano-petri" >}} Maximiliano Petri {{< /staticref >}}.
+{{< staticref "author/maximiliano-petri" >}}Maximiliano Petri{{< /staticref >}}.
 
 [Enlace al Volumen 2](https://www.frlp.utn.edu.ar/sites/default/files/Revista%20Mec%C3%A1nica%20Tecnol%C3%B3gica%20Volumen2.pdf)
 

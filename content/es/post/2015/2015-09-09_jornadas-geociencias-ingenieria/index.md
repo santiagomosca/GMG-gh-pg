@@ -14,7 +14,7 @@ tags:
 featured: false
 ---
 
-{{< staticref "author/matias-fernandez" >}} Matías Fernández {{< /staticref >}} expuso
+{{< staticref "author/matias-fernandez" >}}Matías Fernández{{< /staticref >}} expuso
 la charla titulada "Estudio experimental sobre el transporte y la disposición del
 agente de sostén en fracturas hidráulicas"
 

@@ -22,7 +22,7 @@ La [105° RAFA][1] tuvo lugar desde el 16 al 30 de septiembre de 2020. El format
 contó con 45 charlas (invitadas, cortas y largas) y posters a lo largo de todas las divisiones.<br>
 
 En esta ocasión, dentro de la división "Industria y Tecnología", el día 28/09 el becario
-{{< staticref "author/lucas-basiuk" >}} Lucas Basiuk {{< /staticref >}} realizó su debut
+{{< staticref "author/lucas-basiuk" >}}Lucas Basiuk{{< /staticref >}} realizó su debut
 en las RAFA con la presentación titulada "Transporte de agentes de sostén en fracturas
 planas: Efecto de condiciones de borde en el extremo de la fractura", charla elaborada en
 coautoría con Matías Fernández, Martín Sánchez, Irou Roschzttardtz y Luis Pugnaloni, que
