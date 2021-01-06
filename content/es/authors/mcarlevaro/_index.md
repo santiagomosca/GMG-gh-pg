@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mcarlevaro@gfrlp.utn.edu.ar'
+  link: 'mailto:mcarlevaro@frlp.utn.edu.ar'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mcarlevaro
@@ -73,28 +73,35 @@ user_groups:
 - Miembros
 ---
 
-Soy **Profesor Titular** en el Departamento de Ingeniería Mecánica de la [Facultad Regional 
-La Plata](https://www.frlp.utn.edu.ar/), Universidad Tecnológica Nacional, donde dirijo el 
-[Grupo de Materiales Granulares](http://granulares.frlp.utn.edu.ar/), 
-y también **Investigador Independiente** en el [Instituto de Física de Líquidos y Sistemas 
-Biológicos](https://iflysib.unlp.edu.ar/) (CONICET - UNLP).
+Soy **Profesor Titular** en el Departamento de Ingeniería Mecánica de la
+[Facultad Regional La Plata][1], Universidad Tecnológica Nacional, donde dirijo el 
+[Grupo de Materiales Granulares][2], y también **Investigador Independiente** en el
+[Instituto de Física de Líquidos y Sistemas Biológicos][3] (CONICET - UNLP).
 
-Me gradué de **Licenciado en Física** en la [Universidad Nacional de Rosario](https://unr.edu.ar/)
-en 1995, y luego obtuve el título de **Doctor de la Facultad de Ciencias Exactas** de la 
-[Universidad Nacional de La Plata](https://unlp.edu.ar/), en 2002.
+[1]: https://www.frlp.utn.edu.ar/
+[2]: http://granulares.frlp.utn.edu.ar/
+[3]: https://iflysib.unlp.edu.ar/
+
+Me gradué de **Licenciado en Física** en la [Universidad Nacional de Rosario][4]
+en 1995, y luego obtuve el título de **Doctor de la Facultad de Ciencias Exactas** de la
+[Universidad Nacional de La Plata][5], en 2002.
+
+[4]: https://unr.edu.ar/
+[5]: https://unlp.edu.ar/
 
 Me desempeñé como investigador en el Programa de Agronegocios y Alimentos de la Facultad de 
-Agronomía de la Universidad de Buenos Aires (2001 - 2003), y luego trabajé en la 
-[Autoridad Regulatoria Nuclear](https://www.argentina.gob.ar/arn) (2003 - 2007), hasta mi 
-ingreso como Investigador en [Consejo Nacional de Investigaciones Científicas y 
-Técnicas](https://www.conicet.gov.ar/) (CONICET).
+Agronomía de la Universidad de Buenos Aires (2001 - 2003), y luego trabajé en la
+[Autoridad Regulatoria Nuclear][6] (2003 - 2007), hasta mi ingreso como Investigador en
+[Consejo Nacional de Investigaciones Científicas y Técnicas][7] (CONICET).
 
-Como docente trabajé en la Universidad Nacional de Rosario (en las facultades de Ingeniería,
-Medicina, Veterinaria y Bioquímica y Farmacia), también en la Facultad de Ciencias Exatas de la
-Universidad Nacional de La Plata. En 2005 comencé como Profesor Adjunto en la Facultad Regional
-Buenos Aires de la Universidad Tecnológica Nacional, hasta agosto de 2018 cuando me mudé a
-la Regional La Plata.
+[6]: https://www.argentina.gob.ar/arn
+[7]: https://www.conicet.gov.ar/
 
+Como docente trabajé en la Universidad Nacional de Rosario (en las facultades de
+Ingeniería, Medicina, Veterinaria y Bioquímica y Farmacia), también en la Facultad de
+Ciencias Exactas de la Universidad Nacional de La Plata. En 2005 comencé como Profesor
+Adjunto en la Facultad Regional Buenos Aires de la Universidad Tecnológica Nacional,
+hasta agosto de 2018 cuando me mudé a la Regional La Plata.
 
 Dentro del GMG participo en los siguientes proyectos:
 <!-- COMMENT OUT: - {{< staticref "en/project/pid-1/" "newtab" >}} Battersea {{< /staticref >}} -->

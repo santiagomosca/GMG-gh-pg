@@ -10,8 +10,8 @@ role: Becario Doctoral
 
 # Organizations/Affiliations
 organizations:
-- name: UTN - FRLP
-  url: "https://www.frlp.utn.edu.ar/"
+- name: GMG (UTN FRLP)
+  url: "https://granulares.frlp.utn.edu.ar/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Platense, bilardista e Ingeniero Mecánico
@@ -68,13 +68,13 @@ user_groups:
 - Miembros
 ---
 
-Platense, bilardista e Ingeniero Mecánico de la UTN Facultad Regional La Plata, nacido el 14 de
-abril de 1993.
+Platense, bilardista e Ingeniero Mecánico de la UTN Facultad Regional La Plata, nacido
+el 14 de abril de 1993.
 
-Soy miembro activo del GMG desde 2019, donde comencé desarrollando tareas en el **Espacio
-Innovación GMG - CONICET - Y-TEC** y analizando los resultados experimentales obtenidos. En 2020
-inicié tareas de aprendizaje vinculadas a la optimización estocástica y método de elementos
-finitos aplicado al diseño de matrices para ingeniería de tejidos.<br>
+Soy miembro activo del GMG desde 2019, donde comencé desarrollando tareas en el
+**Espacio Innovación GMG - CONICET - Y-TEC** y analizando los resultados experimentales
+obtenidos. En 2020 inicié tareas de aprendizaje vinculadas a la optimización estocástica
+y método de elementos finitos aplicado al diseño de matrices para ingeniería de tejidos.
 
 Además soy, en UTN FRLP, Director en la [Secretaría de Asuntos Estudiantiles][1] y
 [Consejero del Depto. de Ingeniería Mecánica][2].
