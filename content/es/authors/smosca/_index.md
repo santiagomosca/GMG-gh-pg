@@ -10,6 +10,8 @@ role: Becario Doctoral
 
 # Organizations/Affiliations
 organizations:
+- name: GMG (UTN FRLP)
+  url: "https://granulares.frlp.utn.edu.ar/"
 - name: IFLySiB
   url: "https://iflysib.unlp.edu.ar/"
 
@@ -17,9 +19,9 @@ organizations:
 bio: Breve biografía.
 
 interests:
-- Música
-- Fútbol
-- Cerveza
+- Flujo en medios porosos
+- Dinámica de fluidos computacional
+- Ingeniería asistida por computadora
 
 education:
   courses:
@@ -29,6 +31,9 @@ education:
   - course: Ingeniero Mecánico
     institution: Universidad Tecnológica Nacional - Facultad Regional La Plata
     year: 2020
+  - course: Bachiller especializado en discursos musicales
+    institution: Bachillerato de Bellas Artes "Francisco A. de Santo" (UNLP)
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +49,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/santiagomosca
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
