@@ -74,7 +74,7 @@ user_groups:
 ---
 
 Soy **Profesor Titular** en el Departamento de Ingeniería Mecánica de la
-[Facultad Regional La Plata][1], Universidad Tecnológica Nacional, donde dirijo el 
+[Facultad Regional La Plata][1], Universidad Tecnológica Nacional, donde dirijo el
 [Grupo de Materiales Granulares][2], y también **Investigador Independiente** en el
 [Instituto de Física de Líquidos y Sistemas Biológicos][3] (CONICET - UNLP).
 
