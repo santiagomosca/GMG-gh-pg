@@ -6,28 +6,30 @@ title: Giancarlo Vatalaro
 superuser: false
 
 # Role/position
-role: Becario UTN
+role: Pasante
 
 # Organizations/Affiliations
 organizations:
-- name: IFLySiB
-  url: "https://iflysib.unlp.edu.ar/"
-- name: UTN - FRLP
-  url: "https://www.frlp.utn.edu.ar/"
+- name: GMG (UTN FRLP)
+  url: "https://gmg-utn.github.io/"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: Breve biografía.
+bio: Pasante GMG.
 
 interests:
-- Música
-- Fútbol
-- Cerveza
+- Arduino
+- Simulación numérica
+- Acústica y vibraciones
+- Sistemas de control y automatización
 
 education:
   courses:
   - course: Ingeniero Mecánico
-    institution: Universidad Tecnológica Nacional - Facultad Regional La Plata
-    year: 2020
+    institution: Universidad Tecnológica Nacional, Facultad Regional La Plata	
+  - course: Técnico Electrónico
+    institution: 'Escuela de Educación Técnica "Albert Thomas"'
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,24 +38,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:smosca@frlp.utn.edu.ar'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  link: 'mailto: vatalaro@alu.frlp.utn.edu.ar'
+# - icon: twitter
+# icon_pack: fab
+# link: 
+# - icon: google-scholar +++
+# icon_pack: ai
+# link: 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gvatalaro
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/giancarlovatalaro/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# icon_pack: ai
+# link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -64,4 +69,15 @@ user_groups:
 - Miembros
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Soy **Estudiante** en la carrera de Ingeniería Mecánica en la [Facultad Regional La Plata][1],
+Universidad Tecnológica Nacional, donde me encuentro como **Pasante** en el [Grupo de Materiales
+Granulares][2].
+
+[1]: https://www.frlp.utn.edu.ar/
+[2]: https://gmg-utn.github.io/
+
+Me gradué como **Técnico Electrónico** en el **Albert Thomas EET N°6** en 2017.
+
+
+<!-- Dentro del GMG, participo en los siguientes proyectos:
+Silo 2d y silo 3d, supongo que estos se actualizarán a medida que se complete la página -->
