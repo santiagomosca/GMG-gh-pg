@@ -19,9 +19,9 @@ organizations:
 bio: Breve biografía.
 
 interests:
-- Música
-- Fútbol
-- Cerveza
+- Interés 1
+- Interés 2
+- Interés 3
 
 education:
   courses:

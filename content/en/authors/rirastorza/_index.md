@@ -19,9 +19,9 @@ organizations:
 bio: Short biography.
 
 interests:
-- Music
-- Football
-- Beer
+- Interest 1
+- Interest 2
+- Interest 3
 
 education:
   courses:
