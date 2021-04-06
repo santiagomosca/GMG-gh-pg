@@ -7,6 +7,8 @@ Instalar las dependencias de Go. Es recomendable descargar el binario para utili
 
 Este sitio se construyó usando la plantilla 'Research Group' de Wowchemy.
 
+Para instrucciones sobre cómo construir el sitio y publicarlo en la página de github del GMG, ver el siguiente [enlace](https://wowchemy.com/docs/guide/deployment/#github-pages).
+
 ---
 
 # Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
